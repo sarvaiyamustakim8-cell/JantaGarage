@@ -213,7 +213,7 @@
                     <li>✔ Engine Repair</li>
                     <li>✔ Priority Support</li>
                     <li>✔ Premium Wash</li>
-                </ul>
+                </ul> 
 
                 <a href="{{ url('/bookService?plan=gold') }}"
                     class="block mt-8 bg-black hover:bg-gray-900 text-white text-center py-3 rounded-xl font-semibold">
